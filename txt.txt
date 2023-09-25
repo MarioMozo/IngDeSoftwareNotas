@@ -1,0 +1,48 @@
+
+Bit	Es un 0 o un 1
+Byte	Son 8 bits, ya sea 0 o 1
+
+LINUX
+FREEDSB
+MACOS
+
+Hay distintos tipos de licencias para redistribuir las versiones de cada sistema
+
+
+Ejemplo: GNU-GPL LIC. > LINUX
+	      BSD LICENCE > FREEDSB
+El sistema Mac Os esta basado en BSD
+
+KERNEL:	Es el núcleo del sistema operativo, como se traduce el codigo al procesador.
+
+
+Comando típico para dar permisos en Linux   16180
+
+
+El OS tiene una base de datos en las cabeceras donde sabe que extensión es cada archivo
+Si se instala Photoshop, la aplicación agregará a la base de datos una cabecera para indicar que el abre ese archivo.ps
+
+
+
+COMO FUNCIONA UN ARCHIVO JPG.
+
+jpg: Es un algoritmo que agrupa los colores similares a los alrededores en matematicas son limites.
+Artefacto de compresión:  Algoritmos de aproximación 
+
+PNG: 	NO PIERDE CALIDAD
+
+VIDEOS CONETENEDORES Y CODECS Y PROTOCOLOS
+
+ Contenedores de video	.avi, .mp4, .flv, .mpg, .webm
+
+Codecs	Algoritmo para comprimir y descomprimir	DivX H2.264
+
+
+Compresion de texto con Arboles binarios
+
+
+
+Matematica binaria, f
+
+SQL	RELACIONALES
+NOSQL	NO RELACIONALES
